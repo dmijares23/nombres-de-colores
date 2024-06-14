@@ -2663,5 +2663,10 @@
     "name": "Ébano",
     "hex": "#37312b",
     "link": "https://es.wikipedia.org/wiki/Negro_(color)#Ejemplos_de_coloraciones_negras"
+  },
+    {
+    "name": "test",
+    "hex": "#37312b",
+    "link": "test"
   }
 ]
